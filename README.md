@@ -153,5 +153,5 @@ The Apriori algorithm successfully identified 25 actionable association rules fr
 
 ## Appendix: Full Results
 **Complete rules CSV:** [results/rules_top25.csv](results/rules_top25.csv)  
-**Parameter grid search results:** [notebooks/03_apriori_analysis.ipynb](#cell-15)
+
 
