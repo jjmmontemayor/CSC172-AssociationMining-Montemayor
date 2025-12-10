@@ -4,6 +4,9 @@
 **Student:** [Your Full Name], [Student ID]  
 **Semester:** [e.g., AY 2025-2026 Sem 1]  
 
+## Abstract
+This project implements the Apriori algorithm for association rule mining on [dataset name] containing [X] transactions. Key findings include [top rule example: "if {bread} then {butter}" with lift=2.3]. The analysis pipeline includes data preprocessing, exploratory data analysis (EDA), rule generation, and evaluation using support, confidence, lift, and conviction metrics. Business insights and actionable recommendations are derived from the strongest rules.
+
 ## Table of Contents
 - [Abstract](#abstract)
 - [1. Introduction](#1-introduction)
@@ -32,8 +35,7 @@
 - [References](#references)
 - [Appendix: Full Results](#appendix-full-results)
 
-## Abstract
-This project implements the Apriori algorithm for association rule mining on [dataset name] containing [X] transactions. Key findings include [top rule example: "if {bread} then {butter}" with lift=2.3]. The analysis pipeline includes data preprocessing, exploratory data analysis (EDA), rule generation, and evaluation using support, confidence, lift, and conviction metrics. Business insights and actionable recommendations are derived from the strongest rules.
+
 
 ## 1. Introduction
 ### 1.1 Problem Statement
